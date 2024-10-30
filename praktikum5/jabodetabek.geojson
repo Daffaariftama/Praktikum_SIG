@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jabodetabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "DKI Jakarta", "luas": "664.010000", "populasi": "11135191 ", "tahun": 2024, "gdp($)": 225.88 }, "geometry": { "type": "Point", "coordinates": [ 106.826805921263428, -6.175760792769623 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "kota Depok", "luas": "199.91 ", "populasi": " 2145400", "tahun": 2024, "gdp($)": 5.745 }, "geometry": { "type": "Point", "coordinates": [ 106.81644827505113, -6.403943695252011 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "kota Tangerang", "luas": "153.930000", "populasi": "1800000", "tahun": 2024, "gdp($)": 13.554 }, "geometry": { "type": "Point", "coordinates": [ 106.638798364876379, -6.171528675565881 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "kota Tangerang Selatan", "luas": "147.190000", "populasi": "1400000", "tahun": 2024, "gdp($)": 6.849 }, "geometry": { "type": "Point", "coordinates": [ 106.709767903742716, -6.323643375975678 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "kota Bekasi", "luas": "210.490000", "populasi": "3000000", "tahun": 2024, "gdp($)": 7.805 }, "geometry": { "type": "Point", "coordinates": [ 106.994730512763397, -6.226365117951502 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "kota Bogor", "luas": "118.500000", "populasi": "1030720", "tahun": 2024, "gdp($)": 3.74 }, "geometry": { "type": "Point", "coordinates": [ 106.808532338435327, -6.597026105192612 ] } }
+]
+}
